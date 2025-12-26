@@ -5,8 +5,8 @@ MODEL_STAGE_2 = "DeepFloyd/IF-II-L-v1.0"
 MODEL_STAGE_3 = "stabilityai/stable-diffusion-x4-upscaler"
 
 DEFAULT_PROMPTS = [
-    'painting of a snowy mountain village',
-    'painting of a horse'
+    'painting of a Water buffalo',
+    'painting of a fish'
 ]
 
 VIEW_OPTIONS = [
